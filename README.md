@@ -9,4 +9,15 @@ needs to be inside or called inside fucntion
 function %(selector){
     // do stuff 
     //return <h1>Gaiman <3 jQuery </h1>
-}
+} 
+selectors:
+
+//('.every-other).css
+class= first-and -last every-other
+id="the-first"
+id"madame-li-element"
+class="every-other"
+class= "first-and-last 
+
+
+jquery selector cheat sheet
